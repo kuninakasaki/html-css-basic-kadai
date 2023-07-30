@@ -20,8 +20,9 @@ body {
     color: rgb(255, 192, 203);
 }
 
-#perent > div {
+#parent > p {
     font-weight: bold;
 }
+
 
 
